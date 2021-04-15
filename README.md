@@ -1,0 +1,14 @@
+# a52qnsxx-user 11 RP1A.200720.012 A525FXXU1AUC4 release-keys
+- manufacturer: 
+- platform: atoll
+- codename: a52q
+- flavor: a52qnsxx-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: A525FXXU1AUC4
+- tags: release-keys
+- fingerprint: samsung/a52qnsxx/a52q:11/RP1A.200720.012/A525FXXU1AUC4:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a52qnsxx-user-11-RP1A.200720.012-A525FXXU1AUC4-release-keys
+- repo: samsung_a52q_dump
